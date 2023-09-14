@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/startBolvanka/static/css/main.7acaea2f.css",
+    "main.js": "/startBolvanka/static/js/main.bc82e9c2.js",
+    "index.html": "/startBolvanka/index.html",
+    "main.7acaea2f.css.map": "/startBolvanka/static/css/main.7acaea2f.css.map",
+    "main.bc82e9c2.js.map": "/startBolvanka/static/js/main.bc82e9c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.bc82e9c2.js"
+  ]
+}
